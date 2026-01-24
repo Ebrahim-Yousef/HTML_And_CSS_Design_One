@@ -76,7 +76,6 @@ body {
   }
 }
 /* End Components */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Header */
 .header {
   padding: 20px;
@@ -154,7 +153,6 @@ body {
   border-bottom: 1px solid #ddd;
 }
 /* End Header */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Landing Section */
 .landing {
   background-image: url(../iamges/landing.jpg);
@@ -183,7 +181,6 @@ body {
   line-height: 1.8;
 }
 /* End Landing Section */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Features */
 .Features {
   padding-top: var(--section-padding);
@@ -210,7 +207,6 @@ body {
   font-size: 17px;
 }
 /* End Features */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Services */
 .services {
   padding-top: var(--section-padding);
@@ -269,7 +265,6 @@ body {
   }
 }
 /* End Services */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Portfolio */
 .portfolio {
   padding-top: var(--section-padding);
@@ -298,7 +293,6 @@ body {
   margin-bottom: 0;
 }
 /* End Portfolio */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start About */
 .about {
   padding-top: var(--section-padding);
@@ -374,7 +368,6 @@ body {
   color: var(--third-color);
 }
 /* End About */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Contact */
 .contact {
   padding-top: var(--section-padding);
@@ -417,7 +410,6 @@ body {
   }
 }
 /* End Contact */
-/* ========== = = = = = = =============== = = = = = = ========== */
 /* Start Footer */
 .footer {
   background-color: var(--secondary-color);
